@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Clean Code ,Design Patterns , Microservices , Docker , Networking**
 
-- 💬 Ask me about **PHP , Laravel , SQL , Javascript**
+- 💬 Ask me about **PHP , Laravel , SQL , Javascript , Symfony**
 
 - 📫 How to reach me **salamaanas681@gmail.com**
 
