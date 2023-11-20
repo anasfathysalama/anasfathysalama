@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasfathysalama" alt="anasfathysalama" /></a> </p>
 
-- 🌱 I’m currently learning **Clean Code ,Design Patterns , Microservices , Docker , Networking**
-
-- 💬 Ask me about **PHP , Laravel , SQL , Javascript , Symfony**
+- 💬 Ask me about **PHP , Laravel , SQL , Javascript**
 
 - 📫 How to reach me **salamaanas681@gmail.com**
 
